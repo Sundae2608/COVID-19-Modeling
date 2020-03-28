@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f0b5c64-6bb1-464a-9b58-44afc0be65d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/COVID-19-Modeling" />
+  </component>
+  <component name="ProjectId" id="1Zjs3RNWpqdJlN976rSyLzrnciG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdvancedRL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\AIProjects\COVID-19-Modeling\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COVID-19-Modeling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="neural_network_cb_loss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COVID-19-Modeling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural_network_cb_loss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weighted_softmax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COVID-19-Modeling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weighted_softmax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.weighted_softmax" />
+      <item itemvalue="Python.neural_network_cb_loss" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.neural_network_cb_loss" />
+        <item itemvalue="Python.weighted_softmax" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f0b5c64-6bb1-464a-9b58-44afc0be65d1" name="Default Changelist" comment="" />
+      <created>1585363637788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585363637788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585433818777">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="94" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.249.1920.1040@0.0.2560.1400" timestamp="1585433818777" />
+    <state x="935" y="424" key="FileChooserDialogImpl" timestamp="1585436363033">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="935" y="424" key="FileChooserDialogImpl/0.0.2560.1400/-1920.249.1920.1040@0.0.2560.1400" timestamp="1585436363033" />
+    <state width="1256" height="279" key="GridCell.Tab.0.bottom" timestamp="1585436364446">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.249.1920.1040@0.0.2560.1400" timestamp="1585436364446" />
+    <state width="1256" height="279" key="GridCell.Tab.0.center" timestamp="1585436364446">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.249.1920.1040@0.0.2560.1400" timestamp="1585436364446" />
+    <state width="1256" height="279" key="GridCell.Tab.0.left" timestamp="1585436364446">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.249.1920.1040@0.0.2560.1400" timestamp="1585436364446" />
+    <state width="1256" height="279" key="GridCell.Tab.0.right" timestamp="1585436364446">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="279" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.249.1920.1040@0.0.2560.1400" timestamp="1585436364446" />
+    <state x="851" y="493" key="com.intellij.ide.util.TipDialog" timestamp="1585425356526">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="851" y="493" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.249.1920.1040@0.0.2560.1400" timestamp="1585425356526" />
+    <state x="303" y="320" key="search.everywhere.popup" timestamp="1585433810057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="303" y="320" key="search.everywhere.popup/0.0.2560.1400/-1920.249.1920.1040@0.0.2560.1400" timestamp="1585433810057" />
+  </component>
+</project>
